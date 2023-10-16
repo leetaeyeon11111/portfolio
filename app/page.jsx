@@ -36,7 +36,7 @@ export default function Home() {
           >
             Portfolio3- middleWeb
           </Link>
-          <p className="mb-2"> 중간 대체 과제 </p>
+          <p className="mb-2"> 웹사이트 </p>
         </div>
 
         <div className="mb-4 bg-white p-4 m-4 rounded-lg hover:bg-gray-300">
